@@ -1,7 +1,4 @@
 # programa
 aprendiendo a programar
-  $ cd ~
-
-  $ cd CarpetaHenry
-
-  $ git clone [dirección copiada]
+  $ cd repositorio-henry
+  $ touch archivo-ejemplo.js
